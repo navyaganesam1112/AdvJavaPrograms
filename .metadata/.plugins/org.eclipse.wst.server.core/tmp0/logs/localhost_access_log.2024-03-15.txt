@@ -1,0 +1,15 @@
+127.0.0.1 - - [15/Mar/2024:15:29:09 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [15/Mar/2024:15:29:12 +0530] "GET /ProductManagementApp/ HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [15/Mar/2024:15:29:12 +0530] "GET /ProductManagementApp/formvalidation.js HTTP/1.1" 200 1377
+0:0:0:0:0:0:0:1 - - [15/Mar/2024:15:29:12 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [15/Mar/2024:15:29:21 +0530] "GET /ProductManagementApp/productList.jsp HTTP/1.1" 200 162687
+0:0:0:0:0:0:0:1 - - [15/Mar/2024:15:29:27 +0530] "GET /ProductManagementApp/EditProductServlet?proId=123 HTTP/1.1" 200 325273
+0:0:0:0:0:0:0:1 - - [15/Mar/2024:15:30:02 +0530] "POST /ProductManagementApp/UpdateProductServlet HTTP/1.1" 200 162687
+0:0:0:0:0:0:0:1 - - [15/Mar/2024:15:31:15 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [15/Mar/2024:15:31:17 +0530] "GET /ProductManagementApp/productList.jsp HTTP/1.1" 200 162687
+0:0:0:0:0:0:0:1 - - [15/Mar/2024:15:31:56 +0530] "GET /ProductManagementApp/add-product.html HTTP/1.1" 200 3549
+0:0:0:0:0:0:0:1 - - [15/Mar/2024:15:32:41 +0530] "POST /ProductManagementApp/AddProductServlet HTTP/1.1" 200 181843
+0:0:0:0:0:0:0:1 - - [15/Mar/2024:15:35:28 +0530] "POST /ProductManagementApp/AddProductServlet HTTP/1.1" 200 192877
+0:0:0:0:0:0:0:1 - - [15/Mar/2024:15:35:41 +0530] "GET /ProductManagementApp/DeleteProductServlet?proId=145 HTTP/1.1" 200 181842
+0:0:0:0:0:0:0:1 - - [15/Mar/2024:15:35:50 +0530] "GET /ProductManagementApp/DeleteProductServlet?proId=123 HTTP/1.1" 200 20189
+0:0:0:0:0:0:0:1 - - [15/Mar/2024:15:36:03 +0530] "GET /ProductManagementApp/EditProductServlet?proId=134 HTTP/1.1" 200 40089

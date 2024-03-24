@@ -1,0 +1,12 @@
+127.0.0.1 - - [09/Feb/2024:14:13:34 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [09/Feb/2024:14:13:36 +0530] "GET /CalculatorApp/ HTTP/1.1" 404 769
+0:0:0:0:0:0:0:1 - - [09/Feb/2024:14:13:36 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [09/Feb/2024:14:13:47 +0530] "GET /CalculatorApp/calculator.html HTTP/1.1" 200 862
+0:0:0:0:0:0:0:1 - - [09/Feb/2024:14:13:57 +0530] "GET /CalculatorApp/CalculatorServlet?first=10&second=15&operation=%2B HTTP/1.1" 200 146
+0:0:0:0:0:0:0:1 - - [09/Feb/2024:14:14:47 +0530] "GET /CalculatorApp/CalculatorServlet?first=10&second=15&operation=%2B HTTP/1.1" 200 178
+0:0:0:0:0:0:0:1 - - [09/Feb/2024:14:15:19 +0530] "GET /CalculatorApp/CalculatorServlet?first=10&second=15&operation=%2B HTTP/1.1" 200 178
+0:0:0:0:0:0:0:1 - - [09/Feb/2024:14:15:20 +0530] "GET /CalculatorApp/CalculatorServlet?first=10&second=15&operation=%2B HTTP/1.1" 200 178
+127.0.0.1 - - [09/Feb/2024:14:15:42 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [09/Feb/2024:14:15:43 +0530] "GET /CalculatorApp/ HTTP/1.1" 404 769
+0:0:0:0:0:0:0:1 - - [09/Feb/2024:14:15:57 +0530] "GET /CalculatorApp/CalculatorServlet?first=10&second=2&operation=%2F HTTP/1.1" 200 182
+0:0:0:0:0:0:0:1 - - [09/Feb/2024:14:16:25 +0530] "GET /CalculatorApp/CalculatorServlet?first=10&second=2&operation=%2F HTTP/1.1" 200 181

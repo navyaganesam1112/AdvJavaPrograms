@@ -1,0 +1,16 @@
+127.0.0.1 - - [12/Feb/2024:17:49:37 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [12/Feb/2024:17:49:38 +0530] "GET /RegistrationApp/ HTTP/1.1" 404 771
+0:0:0:0:0:0:0:1 - - [12/Feb/2024:17:49:39 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [12/Feb/2024:17:49:48 +0530] "GET /RegistrationApp/register.html HTTP/1.1" 200 1594
+0:0:0:0:0:0:0:1 - - [12/Feb/2024:17:50:26 +0530] "GET /RegistrationApp/ HTTP/1.1" 404 771
+0:0:0:0:0:0:0:1 - - [12/Feb/2024:17:51:12 +0530] "GET /RegistrationApp/ HTTP/1.1" 404 771
+0:0:0:0:0:0:0:1 - - [12/Feb/2024:17:53:15 +0530] "GET /RegistrationApp/RegisterServlet?username=Navya&userpassword=navya%40123&mobile=3456782193&email=navya%40gmail.com&gender=FEMALE&dob=2014-11-02&qualification=BSC&qualification=MSC&country=India&language=Hindi&comments=Ratan+sir+wowwwowwwoow.. HTTP/1.1" 200 271
+127.0.0.1 - - [12/Feb/2024:17:55:29 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [12/Feb/2024:17:55:29 +0530] "GET /RegistrationApp/ HTTP/1.1" 404 771
+0:0:0:0:0:0:0:1 - - [12/Feb/2024:17:55:44 +0530] "GET /RegistrationApp/register.html HTTP/1.1" 200 1600
+0:0:0:0:0:0:0:1 - - [12/Feb/2024:17:57:51 +0530] "GET /RegistrationApp/RegisterServlet?username=Navya&userpassword=navya%40123&mobile=9866532416&email=navya%40gmail.com&gender=FEMALE&dob=2011-11-02&qualification=BSC&qualification=MSC&country=India&language=Telugu&language=English&comments=Ratan+sir+classes+wowwowwo...... HTTP/1.1" 200 288
+127.0.0.1 - - [12/Feb/2024:17:59:52 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [12/Feb/2024:17:59:52 +0530] "GET /RegistrationApp/ HTTP/1.1" 404 771
+0:0:0:0:0:0:0:1 - - [12/Feb/2024:17:59:58 +0530] "GET /RegistrationApp/register.html HTTP/1.1" 200 1605
+0:0:0:0:0:0:0:1 - - [12/Feb/2024:18:01:11 +0530] "GET /RegistrationApp/RegisterServlet?username=Navya&userpassword=navya&mobile=7689202695&email=navya%40gmail.com&gender=FEMALE&dob=2024-01-31&qualification=BSC&qualification=BTech&country=Japan&language=Telugu&language=Hindi&language=English&comments=Ratan+sir+wowwowwow.... HTTP/1.1" 200 297
+0:0:0:0:0:0:0:1 - - [12/Feb/2024:18:01:47 +0530] "GET /RegistrationApp/RegisterServlet?username=Navya&userpassword=navya&mobile=7689202695&email=navya%40gmail.com&gender=FEMALE&dob=2024-01-31&qualification=BSC&qualification=BTech&country=Japan&language=Telugu&language=Hindi&language=English&comments=Ratan+sir+wowwowwow.... HTTP/1.1" 200 297

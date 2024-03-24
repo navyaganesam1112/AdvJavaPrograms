@@ -1,0 +1,17 @@
+function palindromeFun (str )  
+{  
+const stringIn = document.getElementById('String').value; 
+    let i;
+    let stringOut = ""; // Changed variable name and initialized as empty string
+    for (i = stringIn.length - 1; i >= 0; i--) {
+        stringOut += stringIn[i]; // Concatenate characters to form the reversed string
+    
+     
+   if(stringIn===stringOut){
+	   alert("It is Palindrome");
+   }
+   else{
+	   alert("It is not palindrome");
+   }
+}
+}

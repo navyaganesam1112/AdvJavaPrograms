@@ -1,0 +1,17 @@
+127.0.0.1 - - [06/Feb/2024:18:08:55 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [06/Feb/2024:18:08:57 +0530] "GET /LoginApplication/ HTTP/1.1" 404 772
+0:0:0:0:0:0:0:1 - - [06/Feb/2024:18:08:57 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [06/Feb/2024:18:09:08 +0530] "GET /LoginApplication/login.html HTTP/1.1" 200 510
+0:0:0:0:0:0:0:1 - - [06/Feb/2024:18:09:28 +0530] "GET /LoginApplication/LoginServlet?username=Navya&password=Navya%40123 HTTP/1.1" 200 45
+0:0:0:0:0:0:0:1 - - [06/Feb/2024:18:10:27 +0530] "GET /LoginApplication/LoginServlet?username=Navya&password=Navya%40123 HTTP/1.1" 200 64
+127.0.0.1 - - [06/Feb/2024:18:13:07 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [06/Feb/2024:18:13:08 +0530] "GET /LoginApplication/ HTTP/1.1" 404 772
+0:0:0:0:0:0:0:1 - - [06/Feb/2024:18:13:08 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [06/Feb/2024:18:13:19 +0530] "GET /LoginApplication/loginform.html HTTP/1.1" 404 786
+0:0:0:0:0:0:0:1 - - [06/Feb/2024:18:13:24 +0530] "GET /LoginApplication/loginform.html HTTP/1.1" 404 786
+0:0:0:0:0:0:0:1 - - [06/Feb/2024:18:14:26 +0530] "GET /LoginApplication/login.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [06/Feb/2024:18:14:41 +0530] "GET /LoginApplication/LoginServlet?username=navya&password=navua HTTP/1.1" 200 58
+127.0.0.1 - - [06/Feb/2024:18:19:39 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [06/Feb/2024:18:19:40 +0530] "GET /LoginApplication/ HTTP/1.1" 404 772
+0:0:0:0:0:0:0:1 - - [06/Feb/2024:18:19:48 +0530] "GET /LoginApplication/login.html HTTP/1.1" 200 517
+0:0:0:0:0:0:0:1 - - [06/Feb/2024:18:19:58 +0530] "GET /LoginApplication/LoginServlet?username=djwppbdcfol&password=dnjcip%3Bp HTTP/1.1" 200 58

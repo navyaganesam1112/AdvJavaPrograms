@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>palindrome</title>
+    <script type="text/javascript" src="Palindrome.js"></script>
+</head>
+<body>
+    <form>
+        <label>Enter the String:</label>
+        <input type="text" id="String"  oninput="palindromeFun()" required/>
+        <br><br>
+     
+       
+    </form>
+</body>
+</html>

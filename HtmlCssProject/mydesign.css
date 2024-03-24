@@ -1,0 +1,40 @@
+
+
+
+.Firstdesign
+{
+color:purple;
+text-align:center;
+text-decoration:underline;
+font-size:30px;
+font-family:'Gill Sans';
+font-style:italic;
+padding-top:20px
+}
+.Seconddesign
+{
+color:red;
+text-align: justify;
+font-size:50px;
+font-family:'Gill Sans';
+font-style:oblique;
+display: inline-block;
+
+}
+
+
+.Thirddesign
+{
+text-decoration:underline;
+font-size:30px;
+font-family:'Gill Sans';
+font-style:italic;
+
+}
+
+.mytable{
+ color:blue;
+ font-size:40px;
+ margin-left: auto;
+  margin-right: auto;
+}

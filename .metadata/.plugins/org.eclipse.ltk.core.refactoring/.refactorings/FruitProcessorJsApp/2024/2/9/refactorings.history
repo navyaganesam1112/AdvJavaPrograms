@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;FruitProcessorJsApp/src/main/webapp/ruitProcessor1.js&apos; to &apos;fruitProcessor1.js&apos;" description="Rename resource &apos;ruitProcessor1.js&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/ruitProcessor1.js" name="fruitProcessor1.js" stamp="1709052351829" updateReferences="true"/>
+</session>

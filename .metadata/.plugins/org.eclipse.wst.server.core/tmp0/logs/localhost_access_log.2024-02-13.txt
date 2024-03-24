@@ -1,0 +1,5 @@
+127.0.0.1 - - [13/Feb/2024:12:57:14 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:12:57:16 +0530] "GET /NumberListApp/ HTTP/1.1" 404 769
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:12:57:16 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:12:57:39 +0530] "GET /NumberListApp/numberlist.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:12:57:47 +0530] "GET /NumberListApp/NumberServlet?Range1=2&Range2=20&Operation=even HTTP/1.1" 200 101
